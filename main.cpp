@@ -1,7 +1,7 @@
 ﻿#include<iostream>
 #include"DynamicArray.h"
 
-int main()
+int main() // some tests
 {
     DynamicArray<int> str(10);
 
