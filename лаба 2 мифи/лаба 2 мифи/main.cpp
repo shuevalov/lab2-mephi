@@ -5,7 +5,7 @@ int main() // some tests
 {
     DynamicArray<int> str(10);
 
-    std::cout << "enter some elements in dynamic array: ";
+    std::cout << "eeeeeenter some elements in dynamic array: ";
     for (int i = 0; i < 10; i++)
     {
         int x;
